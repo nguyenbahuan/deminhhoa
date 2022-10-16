@@ -5,7 +5,7 @@
 	<div class="row">
 		<div class="col-12 text-center pt-5">
 			<h1 class="display-one mt-5">PHP Laravel Project - CRUD</h1>
-			<div class="text-left"><a href="" class="btn btn-outline-primary">Product List</a></div>
+			<div class="text-left"><a href="/student_manage" class="btn btn-outline-primary">Product List</a></div>
 
 			<form id="edit-frm" method="POST" action="" class="border p-3 mt-2">
 				<div class="control-group col-6 text-left">
